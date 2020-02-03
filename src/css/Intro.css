@@ -1,0 +1,11 @@
+.intro-container {
+    display: flex;
+    max-width: 100%;
+    color: white;
+}
+
+.chris-pic {
+    max-width: 100%;
+    min-width: 50%;
+    height: auto;
+}
